@@ -8,4 +8,3 @@ uploads/*
 logs/*
 !logs/.gitkeep
 .pytest_cache/
-
